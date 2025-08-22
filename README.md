@@ -47,6 +47,8 @@ A implementação de ferramentas na empresa Abstergo Industries tem como resulta
 - [Amazon S3](https://aws.amazon.com/pt/s3/?did=ft_card2&trk=ft_s3)  
 - [Amazon RDS](https://aws.amazon.com/pt/rds/?did=ft_card2&trk=ft_rds)  
 
+Planilha "Estimativa de custo AWS" na pasta de anexos
+
 ---
 
 **Assinatura do Responsável pelo Projeto:**  
